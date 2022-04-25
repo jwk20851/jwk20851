@@ -7,8 +7,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello!%20I%27m%20Wonkyu&animation=fadeIn&fontSize=70)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmangbaam&count_bg=%231E99FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/jwk20851)
-
 안녕하세요 반갑습니다🖐🏻
 
 개발 공부하는 정원규입니다!😄
