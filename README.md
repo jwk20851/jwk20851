@@ -1,4 +1,22 @@
-### Hi there 👋
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwk20851&count_bg=%2350A4D3&title_bg=%23555555&icon=github.svg&icon_color=%23FFB636&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hello!%20I%27m%20Wonkyu&animation=fadeIn&fontSize=70)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmangbaam&count_bg=%231E99FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/jwk20851)
+
+안녕하세요 반갑습니다🖐🏻
+
+개발 공부하는 정원규입니다!😄
+
+깔끔하고 원활한 코드를 작성하기 위해 노력하고 있습니다.👍
+
+---
+
 
 <!--
 **jwk20851/jwk20851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
