@@ -18,6 +18,8 @@
 
 ### 📨 Email
 <img src="https://img.shields.io/badge/jwk20851@gmail.com-white?logo=gmail&logoColor=EA4335"/>
+  
+---
 
 <!--
 **jwk20851/jwk20851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
