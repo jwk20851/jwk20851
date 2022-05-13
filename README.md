@@ -16,11 +16,6 @@
 
 ---
 
-### 📨 Email
-<img src="https://img.shields.io/badge/jwk20851@gmail.com-white?logo=gmail&logoColor=EA4335"/>
-  
----
-
 ### 📚 Studying
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   
